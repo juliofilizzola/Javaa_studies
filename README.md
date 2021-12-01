@@ -9,4 +9,4 @@ Os codigos aqui vão desde um Hello World basico, até uma API REST:
 
 Diretório   | Função
 --------- | ------
-[Hello World](https://github.com/juliofilizzola/DIO-CSharp/tree/main/01-EstruturaDoPrograma)| Hello World
+[Hello World](https://github.com/juliofilizzola/Java_studies/tree/main/HelloWorld)| Hello World
