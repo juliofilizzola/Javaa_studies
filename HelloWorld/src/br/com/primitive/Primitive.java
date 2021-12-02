@@ -7,10 +7,10 @@ public class Primitive {
     int intVar = 2147483647; // Valor máximo do int;
     long longVar = 9223372036854770000L; // valor máximo do long;
 
-    float floatVar = 10.10F;
-    double doubleVar = 10000000000.299;
-    char charVar = 's';
-    boolean booleanVar = true;
+    float floatVar = 10.10F; // valor máximo relativo do float;
+    double doubleVar = 10000000000.299; // valor maximo relativo do double;
+    char charVar = 's'; // valor máximo do char;
+    boolean booleanVar = true; //valor possivel do boolean;
 
     System.out.println(byteVar);
     System.out.println(shortVar);
