@@ -10,6 +10,8 @@ public class Primitive {
     float floatVar = 10.10F;
     double doubleVar = 10000000000.299;
     char charVar = 's';
+    boolean booleanVar = true;
+
     System.out.println(byteVar);
     System.out.println(shortVar);
     System.out.println(intVar);
@@ -17,5 +19,6 @@ public class Primitive {
     System.out.println(floatVar);
     System.out.println(doubleVar);
     System.out.println(charVar);
+    System.out.println(booleanVar);
   }
 }
