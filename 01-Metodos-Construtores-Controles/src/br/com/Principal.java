@@ -10,5 +10,8 @@ public class Principal {
     *
     * VOID: caso esteja com o falor defoult, você pode acessar só no mesmo pacote;
     * */
+
+    // Metodo é o que  conhecido como função em outras linguagens.
+    
   }
 }
