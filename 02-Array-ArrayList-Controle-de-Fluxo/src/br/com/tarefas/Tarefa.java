@@ -7,7 +7,7 @@ public class Tarefa {
         this.descricao = descricao;
     }
 
-    public void exibirTtarefa() {
+    public void exibirTarefa() {
         System.out.println(descricao);
     }
 

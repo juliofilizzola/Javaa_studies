@@ -3,17 +3,25 @@ package br.com.tarefas;
 public class ArrayTarefas {
 
     Tarefa[] tarefas;
+    int contador = 0;
 
     public ArrayTarefas(int tamanho) {
         tarefas = new Tarefa[tamanho];
     }
 
-    public void adcionar (Tarefa tarefa) {
-        tarefas[0] = tarefa;
+    public void adicionar(Tarefa tarefa) {
+        tarefas[contador] = tarefa;
+        contador += 1;
     }
 
     public void removerTarefa(int posicao) {
         tarefas[posicao] = null;
+    }
+
+    public void exibirTarefas() {
+        for (Tarefa tarefa : tarefas ) {
+            tarefa.exibirTarefa();
+        }
     }
 
 }
