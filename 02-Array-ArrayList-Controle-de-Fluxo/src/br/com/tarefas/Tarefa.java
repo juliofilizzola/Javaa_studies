@@ -1,3 +1,5 @@
+package br.com.tarefas;
+
 public class Tarefa {
     String descricao;
 
