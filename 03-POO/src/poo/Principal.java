@@ -1,2 +1,7 @@
-package PACKAGE_NAME;public class Principal {
+package poo;
+
+public class Principal {
+    public static void main(String[] args) {
+
+    }
 }
