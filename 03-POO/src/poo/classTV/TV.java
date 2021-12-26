@@ -25,5 +25,9 @@ public class TV {
         this.volume -= taxa;
     }
 
+    public void mudarCanal(int canal) {
+        this.canal = canal;
+    }
+
 }
 
