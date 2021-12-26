@@ -7,7 +7,7 @@ public interface ControleRemoto {
 
     void diminuirVolume(int taxa);
 
-    boolean ligar();
+    void ligar();
 
-    boolean desligar();
+    void desligar();
 }

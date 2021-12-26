@@ -12,5 +12,18 @@ public class TV {
         this.volume = volume;
         this.ligada = false;
     }
+
+    public void setLigada(boolean ligada) {
+        this.ligada = ligada;
+    }
+
+    public void aumentarVolume(int volume) {
+        this.volume += volume;
+    }
+
+    public void diminuirVolume(int taxa) {
+        this.volume -= taxa;
+    }
+
 }
 
