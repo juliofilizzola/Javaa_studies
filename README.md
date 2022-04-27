@@ -1,6 +1,6 @@
 # Java Studies
 
-Repositório de estudos de Java da Aceleração Codenation
+Repositório de estudos de Java
 
 ![Aceleração Java](https://marcas-logos.net/wp-content/uploads/2020/11/Java-logo.png)
 
